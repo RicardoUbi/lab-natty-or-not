@@ -1,51 +1,23 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Poemas Personalizados
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto permite a criação de poemas personalizados utilizando um script e um modelo de linguagem avançado como Gemini/Bard, ChatGPT ou similar. Através da inserção de 3 palavras, uma emoção, um objeto e um desejo, a IA gera versos únicos e expressivos que refletem suas ideias e sentimentos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Modelos de Linguagem: Gemini/Bard, ChatGPT ou similar.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O script funciona de maneira simples e intuitiva:
+
+* Definição do Poema: Insira três palavras que sirvam como base para a criação do poema.
+* Expresse sua Emoção: Defina a emoção que o poema deve transmitir, seja ela alegria, tristeza, amor, nostalgia ou qualquer outra que te move.
+* Incorpore um Objeto: Escolha um objeto que tenha significado para você e que esteja presente no poema.
+* Revele seu Desejo: Expresse o desejo que você gostaria de ver manifestado no poema, seja ele um anseio pessoal, um sonho ou uma aspiração.
+* A IA em Ação: O script, utilizando o poder da inteligência artificial, gera um poema personalizado com base nas informações fornecidas.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O script permite a criação de poemas únicos e expressivos que capturam a essência de suas emoções e aspirações. Cada poema é uma obra original, moldada por suas ideias e sentimentos, tornando-se um reflexo autêntico de suas palavras.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar algo "natural" com a IA, como um poema que transborda emoção e significado, é um desafio empolgante. A inteligência artificial nos oferece ferramentas poderosas para explorarmos a criatividade de forma inovadora. No entanto, é importante lembrar que a essência da poesia reside na sensibilidade humana, na capacidade de traduzir em palavras as nuances dos nossos sentimentos e experiências. A IA pode ser uma aliada valiosa nesse processo, mas cabe a nós, humanos, guiar a criação e imbuir os versos com a autenticidade que os torna verdadeiramente especiais.
